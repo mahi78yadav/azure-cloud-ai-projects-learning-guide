@@ -352,3 +352,32 @@ Until these checks are completed, mark the module **Documented**.
 ## Next Module
 
 Proceed to **Module 01 — Azure Data Factory Retail Data Integration**, starting with the business problem, source-to-target architecture, and the purpose of each Azure resource before examining pipeline implementation.
+
+---
+
+## Architecture Thinking and Communication
+
+These resources build the mindset and communication skills required for an AI-Enabled Data Architect.
+
+### 1. Enterprise Architect Thinking Framework
+
+**File:** `enterprise-architect-thinking-framework.md`
+
+Learn to approach architecture in this sequence:
+
+Business understanding → Business data → Architecture → Governance → Resilience → Modernization → AI adoption.
+
+### 2. AI-Enabled Data Architect Vocabulary
+
+**File:** `architect-vocabulary-and-communication.md`
+
+Learn important business, data, architecture, governance, resilience, cloud, and AI terminology, with practical examples and professional meeting sentences.
+
+### Recommended Learning Method
+
+1. Understand the concept in simple language.
+2. Connect it to one of the three Azure projects.
+3. Explain the architectural significance in your own words.
+4. Practise presenting the concept to a manager or a BTech fresher.
+
+**Guiding principle:** Explain the business purpose first, the technical decision second, and the expected value and trade-offs third.
