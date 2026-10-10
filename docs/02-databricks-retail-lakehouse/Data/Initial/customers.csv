@@ -1,0 +1,11 @@
+CustomerID,CustomerName,Email,City,State,ModifiedDate
+1001,Aarav Sharma,aarav.sharma@example.com,Hyderabad,Telangana,2026-10-01 09:00:00
+1002,Diya Reddy,diya.reddy@example.com,Warangal,Telangana,2026-10-01 09:15:00
+1003,Arjun Kumar,arjun.kumar@example.com,Bengaluru,Karnataka,2026-10-01 10:00:00
+1004,Meera Nair,meera.nair@example.com,Chennai,Tamil Nadu,2026-10-02 08:30:00
+1005,Ishaan Patel,ishaan.patel@example.com,Pune,Maharashtra,2026-10-02 11:00:00
+1006,Ananya Rao,ananya.rao@example.com,Vijayawada,Andhra Pradesh,2026-10-03 12:10:00
+1007,Kabir Singh,kabir.singh@example.com,Delhi,Delhi,2026-10-03 13:45:00
+1008,Saanvi Das,saanvi.das@example.com,Kolkata,West Bengal,2026-10-04 14:00:00
+1009,Vivaan Joshi,vivaan.joshi@example.com,Mumbai,Maharashtra,2026-10-04 15:20:00
+1010,Myra Iyer,myra.iyer@example.com,Kochi,Kerala,2026-10-05 16:00:00
