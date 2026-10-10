@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,UnitPrice,StockQuantity,ModifiedDate
+2001,Laptop 14 inch,Electronics,65000.0,25,2026-10-01 09:00:00
+2002,Wireless Mouse,Accessories,850.0,120,2026-10-01 09:10:00
+2003,Mechanical Keyboard,Accessories,3200.0,60,2026-10-01 09:20:00
+2004,27 inch Monitor,Electronics,18500.0,30,2026-10-01 10:00:00
+2005,USB-C Hub,Accessories,2400.0,75,2026-10-02 08:00:00
+2006,Noise Cancelling Headphones,Audio,7200.0,40,2026-10-02 10:30:00
+2007,Smartphone 128GB,Electronics,28999.0,50,2026-10-03 11:00:00
+2008,Portable SSD 1TB,Storage,6800.0,35,2026-10-03 12:00:00
+2009,Webcam HD,Accessories,2100.0,45,2026-10-04 13:00:00
+2010,Laptop Backpack,Accessories,1600.0,80,2026-10-05 14:00:00
